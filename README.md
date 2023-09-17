@@ -1,0 +1,1 @@
+The second part of the project consisted of developing two boxes with a phrase around them and an image that was repeated 4 by 2. These boxes would have to be positioned specifically in the locations shown by an image of a map of the logistics area.
